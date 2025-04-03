@@ -10,7 +10,7 @@ export default function Home() {
       <p className="description">
         Software engineer. Working on web technologies.
         <br />
-        <a href="https://amin.contact">https://amin.contact</a>
+        You can find me in: <a href="https://amin.contact">https://amin.contact</a>
       </p>
       <h1>Latest Thoughts</h1>
 

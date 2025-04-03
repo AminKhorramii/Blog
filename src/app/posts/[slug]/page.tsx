@@ -1,14 +1,13 @@
 import { getPostMetadata, getPostBySlug } from "@/lib/posts";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import type { Metadata, ResolvingMetadata } from "next";
+import type { Metadata } from "next";
 
 interface PostPageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
-
 export async function generateStaticParams() {
   const posts = getPostMetadata();
   return posts.map((post) => ({
@@ -16,11 +15,11 @@ export async function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata(
-  { params }: PostPageProps,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
-  const post = await getPostBySlug(params.slug);
+export async function generateMetadata({
+  params,
+}: PostPageProps): Promise<Metadata> {
+  const resolvedParams = await params;
+  const post = await getPostBySlug(resolvedParams.slug);
 
   if (!post) {
     return {
@@ -35,7 +34,8 @@ export async function generateMetadata(
 }
 
 export default async function PostPage({ params }: PostPageProps) {
-  const post = await getPostBySlug(params.slug);
+  const resolvedParams = await params;
+  const post = await getPostBySlug(resolvedParams.slug);
 
   if (!post) {
     notFound();
