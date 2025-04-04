@@ -1,7 +1,7 @@
 ---
 title: 'Creating an Obsidian-to-GitHub Blog Publisher Plugin' 
 date: '2025-04-04' 
-excertp: 'How I built a tool to streamline publishing from Obsidian to my NextJS blog'
+excerpt: 'How I built a tool to streamline publishing from Obsidian to my NextJS blog'
 ---
 
 
