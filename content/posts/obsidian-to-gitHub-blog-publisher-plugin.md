@@ -7,7 +7,7 @@ excerpt: 'How I built a tool to streamline publishing from Obsidian to my blog'
 
 It's been a while since I've been thinking about sharing my thoughts and observations, particularly how I make tools. Today, I want to talk about how I built [thoughts.amin.contact](https://thoughts.amin.contact/) and the custom tooling behind it.
 
-![demo publisher](/images/demo_publisher.mov)
+![demo publisher](/images/demo_publisher.mp4)
 
 ## The Publishing Problem
 
