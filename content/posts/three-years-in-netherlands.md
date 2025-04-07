@@ -28,7 +28,7 @@ I mean, It's not good. Like I can not **emphasize** it more. If you're really co
 
 Well, depends on the company. Overall, you hear more about "work-life balance." This seems to be true (I should **emphasize** that this is my observation and limited to three years), though I feel like overall people are more focused when at work, but when they're off, they're OFF. I have friends who work more than 40 hours and even over 50 hours depending on the company size/tier - just a random thought: https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/, **Gergely Orosz** has a good overview of the nature of companies and I guess the whole work culture has a correlation with the sort of companies you're working in.
 
-I've not worked in a large scale tech company here so I can not talk about that, but my experience has been positive with so much learning by now. The Dutch approach to work has taught me to be more efficient during working hours and more present during my personal time, which has improved both aspects of my life.
+I've not worked in a large scale tech company here so I can not talk about that, but my experience has been positive with so much learning by now. I guess the Dutch approach to work has taught me to be more efficient during working hours and more present during my personal time.
 
 ## Traveling
 
