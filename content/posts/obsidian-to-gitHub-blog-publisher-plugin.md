@@ -7,7 +7,7 @@ excerpt: 'How I built a tool to streamline publishing from Obsidian to my blog'
 
 It's been a while since I've been thinking about sharing my thoughts and observations, particularly how I make tools. Today, I want to talk about how I built [thoughts.amin.contact](https://thoughts.amin.contact/) and the custom tooling behind it.
 
-![demo publisher](/public/images/demo_publisher.mov)
+![demo publisher](/images/demo_publisher.mov)
 
 ## The Publishing Problem
 
@@ -29,7 +29,7 @@ After exploring existing plugins, I realized none quite matched my workflow. I w
 
 So I rolled up my sleeves and built exactly that: the [Obsidian Content Publisher](https://github.com/AminKhorramii/obsidian-content-publisher) plugin.
 
-![config_publisher_image](/public/images/config_publisher_image.png)
+![config_publisher_image](/images/config_publisher_image.png)
 
 ## How It Works
 
