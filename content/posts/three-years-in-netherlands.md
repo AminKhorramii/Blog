@@ -1,3 +1,9 @@
+---
+title: 'Three years in Netherlands' 
+date: '2025-04-05' 
+excerpt: 'Today, April 5th 2025 marks my three years in the Netherlands'
+---
+
 Today, April 5th 2025 marks my three years in the Netherlands. I got a job offer right after I finished my bachelor's and decided to move here. I own a bike (of course), know some Dutch words (can barely hold a conversation), have loads of good friends (which is awesome) and what I've been doing with work recently makes me super happy (I'm gonna write later on about that). Now, I'm just thinking I can wrap my head around a couple of topics here.
 
 ## People
