@@ -1,6 +1,6 @@
 ---
 title: 'Why I Built a Query Tool (And Why You Might Actually Use It)' 
-date: '2025-04-04' 
+date: '2025-05-23' 
 excerpt: 'I got tired of uploading CSV files to query them locally, so I built a tool that runs SQL directly in your browser.'
 ---
 
