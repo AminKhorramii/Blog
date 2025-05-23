@@ -1,5 +1,8 @@
-
-# Why I Built a Query Tool (And Why You Might Actually Use It)
+---
+title: 'Why I Built a Query Tool (And Why You Might Actually Use It)' 
+date: '2025-04-04' 
+excerpt: 'I got tired of uploading CSV files to query them locally, so I built a tool that runs SQL directly in your browser.'
+---
 
 ![demo_picture](/public/images/demo_picture.png)
 So I had these 1GB+ CSV files sitting on my laptop, and I just wanted to run a couple of SQL queries on them. Simple, right? **Wrong.**
@@ -22,7 +25,7 @@ The goal was simple: make querying local CSV/EXCEL/PARQUET/JSON files as easy as
 
 ## What I Built (DataKit)
 
-[DataKit](https://datakit.dev/) ended up being this web-based tool that:
+[DataKit](https://datakit.page/) ended up being this web-based tool that:
 
 - Handles files up to 1-2GB (sometimes more, but I'm still working out some kinks with larger files)
 - Runs SQL queries directly in your browser using DuckDB-wasm
@@ -49,7 +52,7 @@ Thanks [Tim](https://www.linkedin.com/in/timwebster85/), [Luke](https://www.link
 
 ## Try It Out
 
-If you've ever been frustrated trying to quickly query a local file, give [DataKit](https://datakit.dev/) a shot. Drop in your file, write some SQL, see what happens. It might just work the way you expect it to.
+If you've ever been frustrated trying to quickly query a local file, give [DataKit](https://datakit.page/) a shot. Drop in your file, write some SQL, see what happens. It might just work the way you expect it to.
 
 And if you've got thoughts, suggestions, or run into issues, let me know! This is the beginning of the DataKit. I'll be writing more about the technical challenges, user feedback, and where this is heading next.
 
