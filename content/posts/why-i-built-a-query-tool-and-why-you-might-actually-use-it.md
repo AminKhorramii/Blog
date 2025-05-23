@@ -4,7 +4,7 @@ date: '2025-05-23'
 excerpt: 'I got tired of uploading CSV files to query them locally, so I built a tool that runs SQL directly in your browser.'
 ---
 
-![demo_picture](/public/images/demo_picture.png)
+![demo_picture](/images/demo_picture.png)
 So I had these 1GB+ CSV files sitting on my laptop, and I just wanted to run a couple of SQL queries on them. Simple, right? **Wrong.**
 
 Here were my options for something that should take 50 seconds: upload it to some hosted solution (and wait forever), throw it into a cloud bucket, set up a database, connect everything together... or use one of those browser-based CSV tools that looked like they were built in 2010 and had half the features missing.
