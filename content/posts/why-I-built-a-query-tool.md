@@ -57,3 +57,5 @@ If you've ever been frustrated trying to quickly query a local file, give [DataK
 And if you've got thoughts, suggestions, or run into issues, let me know! This is the beginning of the DataKit. I'll be writing more about the technical challenges, user feedback, and where this is heading next.
 
 _P.S. - Here's a [demo video](https://youtu.be/5uv88X0VlYg) if you want to see it in action first._
+_P.S. 2 - Here's the [first Reddit release on SQL subbreddit](https://www.reddit.com/r/SQL/comments/1knhx7t)._
+_P.S. 3 - On [Producthunt](https://www.producthunt.com/products/datakit)._
