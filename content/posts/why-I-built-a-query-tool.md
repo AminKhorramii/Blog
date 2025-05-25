@@ -1,5 +1,5 @@
 ---
-title: 'Why I Built a Query Tool (And Why You Might Actually Use It)' 
+title: 'Why I built a query tool (and why you might actually use it)' 
 date: '2025-05-23' 
 excerpt: 'I got tired of uploading CSV files to query them locally, so I built a tool that runs SQL directly in your browser.'
 ---
@@ -11,7 +11,7 @@ Here were my options for something that should take 50 seconds: upload it to som
 
 None of these felt right for what should be a 50-second task.
 
-## The DuckDB Amsterdam Meetup
+## The DuckDB Meetup
 
 A few months back, I was at a DuckDB meetup here in Amsterdam (shoutout to the amazing crowd there!). [Chris Laffra](https://www.linkedin.com/in/chrislaffra/) was giving this demo of [pysheets.app](https://pysheets.app/) with DuckDB-wasm, and something clicked. Wait, if DuckDB can run directly in the browser, then I could...
 
@@ -48,7 +48,7 @@ The feedback I've gotten so far has been pretty cool. People seem surprised that
 
 I'm still figuring out the next steps. Maybe turning this into a proper open source project (though I need to think about that more). For now, it's just me plus a bunch of good friends throwing suggestions my way.
 
-Thanks [Tim](https://www.linkedin.com/in/timwebster85/), [Luke](https://www.linkedin.com/in/luke-rynne-cullen/), and so many others for all the insights! The feature requests keep coming - better query editor, sample data previews, more visualization options, clearer messaging about privacy, and fixing some design responsiveness issues. Some of these suggestions are so obvious in hindsight that they make me smile.
+Thanks [Tim](https://www.linkedin.com/in/timwebster85/), [Luke](https://www.linkedin.com/in/luke-rynne-cullen/), [Alireza](https://www.linkedin.com/in/alireza-sheikholmolouki/) and so many others for all the insights! The feature requests keep coming - better query editor, sample data previews, more visualization options, clearer messaging about privacy, and fixing some design responsiveness issues. Some of these suggestions are so obvious in hindsight that they make me smile.
 
 ## Try It Out
 
