@@ -1,6 +1,10 @@
-# Adding MotherDuck to DataKit
+---
+title: 'Adding MotherDuck to DataKit' 
+date: '2025-06-17' 
+excerpt: 'Remember when I said DataKit was just for local files? Well, I lied. Kind of.'
+---
 
-![datakit_motherduck_demo](/public/images/datakit_motherduck_demo.png)
+![datakit_motherduck_demo](/images/datakit_motherduck_demo.png)
 
 Remember when I said DataKit was [just for local files](https://thoughts.amin.contact/posts/why-I-built-a-query-tool)? Well, I lied. Kind of.
 
