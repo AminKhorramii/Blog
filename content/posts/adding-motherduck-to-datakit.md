@@ -6,7 +6,7 @@ excerpt: 'Remember when I said DataKit was just for local files? Well, I lied. K
 
 ![datakit_motherduck_demo](/images/datakit_motherduck_demo.png)
 
-Remember when I said DataKit was [just for local files](https://thoughts.amin.contact/posts/why-I-built-a-query-tool)? Well, I lied. Kind of.
+Remember when I said DataKit was [just for local files](https://thoughts.amin.contact/posts/why-I-built-a-query-tool)? Well, not anymore.
 
 Last week I spent some time integrating MotherDuck into DataKit, and honestly, it turned out way smoother than I expected. The whole thing started when I was talking with some MotherDuck folks and [Boaz Leskes](https://www.linkedin.com/in/boazleskes/) mentioned it would be cool to have the ability connect to their MD data too. That comment stuck in my head.
 
