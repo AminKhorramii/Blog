@@ -25,7 +25,7 @@ Ended up with:
 - Write queries that automatically route to the right place
 - Create tables in MotherDuck directly from local data
 
-The schema browser now shows both local and cloud data in one tree view. Orange cloud icons for MotherDuck, hard drive for local. Simple.
+The schema browser now offers you the opportunity to show both local and cloud data in one tree view. Orange cloud icons for MotherDuck, hard drive for local. Simple.
 
 ## Try It Out
 
