@@ -38,7 +38,7 @@ The conversations have been interesting - some folks want to license DataKit for
 
 ## What's Next?
 
-Building a data exploration tool is interesting because it's inherently horizontal -- everyone from engineers to operations to researchers has data they need to query. This creates a  challenge: how do you build something that's powerful enough for technical users but approachable enough for everyone else? Every request pulls in a slightly different direction.
+Building a data exploration tool is interesting because it's inherently horizontal, everyone from engineers to operations to researchers has data they need to query. This creates a  challenge: how do you build something that's powerful enough for technical users but approachable enough for everyone else? Every request pulls in a slightly different direction.
 
 The requests keep coming, but instead of just building everything, we're going to do more discovery. I'm planning to talk to more folks, understand their workflows better, and figure out which niche would be the best starting point to really spread the word. Each group has different needs, and finding the right focus will help DataKit grow in a meaningful way.
 
