@@ -26,7 +26,7 @@ This one came from the more skeptical users (in the best way). The [Reddit post]
 
 ## Workspaces 
 
-The workspace feature in [v0.3.9](https://datakit.canny.io/changelog/v039) (almost) solved one of the most annoying problems - having to re-import the same files every time you opened your browser. Now your datasets persist, organized by project. To be clear, it's still not perfect - DataKit doesn't actually store your files, it just tracks where they are on your disk through file handlers. But even this simple change makes a difference when you're actually using this daily for the same files.
+The workspace feature in [v0.3.9](https://datakit.canny.io/changelog/v039) (almost) solved one of the most annoying problems - having to re-import the same files every time you opened your browser. Now your datasets persist, organized by project. To be clear, it's still not perfect - DataKit doesn't actually store your files, it just tracks where they are on your disk through file handlers. But even this simple change makes a difference when you're actually using this daily for the same files. There's an ongoing POC for DataKit Cloud that's in progress which would solve this properly, but more on that later.
 
 And with [v0.4.0](https://datakit.canny.io/changelog/v040), you can connect directly to PostgreSQL databases. Preview tables, run queries, use the AI assistant - all without leaving your browser. This is more of a POC in action that different folks asked. Using Postgres extension on DataKit servers to have a layer of OLAP on the main DBMS systems users are using that connects them to DataKit. Still exploring and seeing how this could evolve and bring more values.
 
@@ -47,7 +47,7 @@ If you haven't tried DataKit yet, [give it a shot](https://datakit.page/). Drop 
 And if you've got thoughts, run into issues, or have that feature that would make this perfect for your workflow - let me know.
 
 
-_P.S. 1 - I need to give a massive shoutout to my friend [Luke](https://www.linkedin.com/in/luke-rynne-cullen), who's giving me loads of hands on distribution, connecting to different folks and what could be potentially next steps for DataKit._
+_P.S. 1 - I need to give a massive shoutout to my friend and a core member of this tool, [Luke](https://www.linkedin.com/in/luke-rynne-cullen), who's giving me loads of hands on distribution, connecting to different folks and what could be potentially next steps for DataKit._
 
 _P.S. 2 - If you're wrapping up your studies, coming from data/computer science, having ideas, and want to be a founding engineer in this - please reach out. This could be a great time to join._
 
