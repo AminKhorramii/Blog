@@ -1,7 +1,7 @@
 ---
 title: 'The DataKit Journey So Far' 
 date: '2025-09-04' 
-excerpt: 'DataKit's major features from the last two months and what's next.'
+excerpt: "DataKit's major features from the last two months and what's next."
 ---
 
 It's been a busy past two months. Today I found some time to just write down what's been happening since my last post about the MotherDuck integration. Back then, DataKit was on v0.1.6, and last week it reached v0.4.0 (took approximately two months - there needs to be a separate post where I explain how I've approached the versioning).
@@ -15,6 +15,7 @@ Back in late 2023/early 2024, me and [Luke](https://www.linkedin.com/in/luke-ryn
 With [v0.2.0](https://datakit.canny.io/changelog/v020), I brought those text-to-SQL learnings directly into DataKit - GPT-4o, Claude, Groq - so you can literally ask questions in plain English and get SQL queries generated automatically. When you're staring at a 30-column table trying to remember the exact syntax for a window function, sometimes you just want to ask "show me the top 5 customers by monthly revenue growth" and be done with it.
 
 Then came [v0.3.0](https://datakit.canny.io/changelog/v030) with the DataKit Assistant - now you don't need to bring your own API keys (though you still can). You get Claude models backed by Anthropic from DataKit itself, follow-up questions, token consumption tracking, and even chart generation from queries. The assistant remembers context, so you can have an actual conversation with those table(s).
+
 ## Local models with Ollama
 
 This one came from the more skeptical users (in the best way). The [Reddit post](https://www.reddit.com/r/ollama/comments/1mp00lq/datakit_ollama_your_data_your_ai_your_way) got some interesting reactions, especially from folks who were skeptical about AI seeing schemas. Fair point. With [v0.3.7](https://datakit.canny.io/changelog/v037), you can now run Llama 3, Mistral, DeepSeek r1, or any other Ollama-supported model locally. Zero API costs, zero rate limits, and most importantly - your schema never touches the internet. Just download [Ollama](https://ollama.com/), fire up DataKit, and you're good to go. 
