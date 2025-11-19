@@ -1,7 +1,7 @@
 ---
 title: 'The Conversational Coding' 
 date: '2025-11-19' 
-excerpt: 'The thing that breaks my brain (recently more and more) isn't that these tools exist. It's that they _work_. Like actually work. Question is whats gonna come next.'
+excerpt: "The thing that breaks my brain (recently more and more) isn't that these tools exist. It's that they _work_. Like actually work. Question is whats gonna come next."
 ---
 
 I saw someone build a project management system in less than an hour by just... writing to a chatbot. The app worked. It had user authentication, a database, a board -- the whole thing. The person who built it had never written a line of JavaScript. Didn't know what React was. But she'd shipped a working application before lunch.
@@ -61,6 +61,7 @@ I think someone will. The tools are getting better fast. Like really fast. Every
 So if you had the idea, made the decisions, shaped the product—does it matter that you didn't write the actual code (assuming on incoming months/years this code also finds a high bar)? I'm starting to think it doesn't. Or at least, it matters way less than I thought it did.
 
 Someone who couldn't build before can build now. The product manager who had an idea for an internal tool but couldn't get engineering time. The designer who sketched out an app concept but didn't know React. The entrepreneur who wanted to test something but couldn't afford to hire developers. They're all building now. And some of what they're building is actually good.
+
 ## What I think is happening
 
 You used to need to understand memory management; then garbage collectors handled it. You used to need to understand server configuration; then PaaS handled it. You used to need to understand CSS (LoL); then Tailwind handled it.
