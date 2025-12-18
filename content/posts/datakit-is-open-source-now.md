@@ -5,7 +5,7 @@ excerpt: "I did a demo of DataKit at the end of Nov 2024 at Fuga and since then 
 ---
 
 
-I did a demo of DataKit at the end of Nov 2024 at Fuga and since then I had this thought that... Ok maybe it's time to go open source.
+I did a demo of DataKit at the end of Nov at Fuga and since then I had this thought that... Ok maybe it's time to go open source.
 
 (For the record - Monday December 8th, 2025 went open source)
 
