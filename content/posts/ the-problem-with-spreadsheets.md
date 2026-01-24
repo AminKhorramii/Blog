@@ -1,5 +1,5 @@
 ---
-title: 'The Problem With Spreadsheets (and what I'm doing about It)' 
+title: "The Problem With Spreadsheets (and what I'm doing about It)"
 date: '2026-01-24' 
 excerpt: "I've been ideating and building data tools for a while now. DataKit started as a way to query files without the hassle of setting up a database or uploading data to some cloud services. It worked. People are using it. But some things kept bothering me."
 ---
