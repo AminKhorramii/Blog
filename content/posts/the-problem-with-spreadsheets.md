@@ -1,5 +1,5 @@
 ---
-title: "The Problem With Spreadsheets (and what I'm doing about It)"
+title: "The Problem With Spreadsheets (and what I'm doing about it)"
 date: '2026-01-24' 
 excerpt: "I've been ideating and building data tools for a while now. DataKit started as a way to query files without the hassle of setting up a database or uploading data to some cloud services. It worked. People are using it. But some things kept bothering me."
 ---
@@ -49,6 +49,6 @@ I'm still figuring out where the line is between "data tool" and "spreadsheet re
 
 ## Try It
 
-You can try it at https://opensheet.app. I'm genuinely curious how people use the AI editing features. I want to learn how these workflows work the best.
+You can try it at (https://opensheet.app)[https://opensheet.app]. I'm genuinely curious how people use the AI editing features. I want to learn how these workflows work the best.
 
-If you have thoughts, find me at https://amin.contact.
+If you have thoughts, find me at (https://amin.contact)[https://amin.contact].
