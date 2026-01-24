@@ -49,6 +49,6 @@ I'm still figuring out where the line is between "data tool" and "spreadsheet re
 
 ## Try It
 
-You can try it at (https://opensheet.app)[https://opensheet.app]. I'm genuinely curious how people use the AI editing features. I want to learn how these workflows work the best.
+You can try it at [https://opensheet.app](https://opensheet.app). I'm genuinely curious how people use the AI editing features. I want to learn how these workflows work the best.
 
-If you have thoughts, find me at (https://amin.contact)[https://amin.contact].
+If you have thoughts, find me at [https://amin.contact](https://amin.contact).
