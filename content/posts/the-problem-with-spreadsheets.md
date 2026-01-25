@@ -4,7 +4,7 @@ date: '2026-01-24'
 excerpt: "I've been ideating and building data tools for a while now. DataKit started as a way to query files without the hassle of setting up a database or uploading data to some cloud services. It worked. People are using it. But some things kept bothering me."
 ---
 
-I've been ideating and building data tools for a while now. DataKit started as a way to query files without the hassle of setting up a database or uploading data to some cloud services. It worked. People are using it. But some things kept bothering me. In short, I've heard a lot:
+I've been ideating and building data tools for a while now. [DataKit](https://datakit.page) started as a way to query files without the hassle of setting up a database or uploading data to some cloud services. It worked. People are using it. But some things kept bothering me. In short, I've heard a lot:
 
 - Why can't the AI also change cells in the file we give to it?
 - Why can't we modify this data grid ourselves?
@@ -15,13 +15,13 @@ This was the most common request I got with DataKit. People would load a file, a
 
 DataKit wasn't built for that. It was built for querying, for answering questions about your data without modifying it in place. The first-read-only approach was intentional. I was thinking like a database person: you query, you analyze, you export. You don't mutate your source data through a chat interface.
 
-But among its user base it also have spreadsheet people. And spreadsheet people edit. They are not that "comfortable" with "sql".
+But among its user base, there are also spreadsheet people. And spreadsheet people edit. They are not that "comfortable" with "sql" per se.
 
 ## The Main Problem
 
-Spreadsheets are everywhere. Excel, Google Sheets, etc, they're the universal interface for data. Everyone knows how to use them. And yet, every time I open a spreadsheet with more than a few thousand rows, I feel the friction. The scrolling. The formulas that break, etc. The moment you need to do anything beyond basic filtering, you're either writing VLOOKUP nightmares or exporting to something else entirely.
+Spreadsheets are everywhere. Excel, Google Sheets, etc, they're the universal interface for data. Everyone knows how to use them. And yet, every time I open a spreadsheet with more than a few thousand rows, I feel the friction e.g. the scrolling and the formulas that break. The moment you need to do anything beyond basic filtering, you're either writing VLOOKUP nightmares or exporting to something else entirely.
 
-The problem isn't that spreadsheets are bad. They're incredibly good at what they do. The problem is that we've been using them for things they were never designed for. And now, with AI making natural language commands actually useful, people expect to just _tell_ their tools what to do. DataKit could answer questions. But it couldn't take action with ease.
+The problem isn't that spreadsheets are bad. They're super good at what they do. The problem is that we've been using them for things they were never designed for. And now, with AI making natural language commands actually useful, people expect to just _tell_ their tools what to do. DataKit could answer questions. But it couldn't take action with ease.
 
 ## What I Actually Needed
 
