@@ -33,7 +33,7 @@ So I built OpenSheet.
 
 OpenSheet is a browser-based tool where you drop files (CSV, JSON, Excel, Parquet) onto a canvas and they become queryable, editable objects. You can organize them like files on a desktop, group them into folders, and open them in a focused view when you need to dig deeper.
 
-Under the hood, it's running DuckDB in your browser. Your data stays local. Always.
+Under the hood, it's running DuckDB in your browser. Everything runs locally. No servers involved and no uploads.
 
 The canvas metaphor wasn't accidental. I wanted the spatial relationship between files to mean something. When you're working with multiple datasets, being able to see them laid out - and eventually connect them - matters more than a list in a sidebar.
 
@@ -42,6 +42,8 @@ The canvas metaphor wasn't accidental. I wanted the spatial relationship between
 This is where I listened to the feedback.
 
 In OpenSheet, you can talk to your data and have it respond. Not just with answers, but with actions. Ask it to filter rows, create calculated columns, clean up messy values, or transform your dataset - and it does it. You see the changes, you can undo them, and you stay in control. I'm working on desktop version as well, where you can modify the files on your file system as well.
+
+And the important part. AI only sees your file's schema, column names and types. Your actual data stays on your machine. It generates the transformations based on what you ask and the structure it understands.
 
 It's not trying to be magic. You still need to know what you want. But the gap between "I want to remove duplicates based on email" and actually doing it is now just... saying it.
 
