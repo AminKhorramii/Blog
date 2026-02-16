@@ -1,6 +1,6 @@
 ---
 title: 'Three years at Fuga'
-date: '2026-02-27'
+date: '2026-02-13'
 excerpt: 'Reflections on three years at FUGA'
 ---
 
