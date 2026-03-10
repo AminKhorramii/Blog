@@ -8,7 +8,7 @@ export default function Home() {
     <div className="blog-content">
       <div className="name">Amin Khorrami</div>
       <p className="description">
-        Software engineer. Working on web technologies.
+        Founding engineer. Working on web technologies.
         <br />
         You can find me in: <a href="https://amin.contact">https://amin.contact</a>
       </p>
